@@ -4,7 +4,7 @@
       <img src="/logo.svg" class="App-logo" alt="logo" />
       <p>
         Edit
-        <code>src/App.vue</code> and save  ss sss reload.
+        <code>src/App.vue</code> ahmad raza khan is this  and save  ss sss reload.
       </p>
       <a
         class="App-link"

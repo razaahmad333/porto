@@ -4,14 +4,15 @@
       <img src="/logo.svg" class="App-logo" alt="logo" />
       <p>
         Edit
-        <code>src/App.vue</code> and save to reload.
+        <code>src/App.vue</code> and save  ss sss reload.
       </p>
       <a
         class="App-link"
         href="https://vuejs.org"
         target="_blank"
         rel="noopener noreferrer"
-      >{{ message }}</a>
+        >{{ message }}</a
+      >
     </header>
   </div>
 </template>
@@ -20,9 +21,9 @@
 export default {
   data() {
     return {
-      message: "Learn Vue"
+      message: "Learn me come aur we wa rear Vue",
     };
-  }
+  },
 };
 </script>
 

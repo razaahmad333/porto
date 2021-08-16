@@ -4,7 +4,7 @@
       <img src="/logo.svg" class="App-logo" alt="logo" />
       <p>
         Edit
-        <code>src/App.vue</code> and save  ss sss reload.
+        <code>src/App.vue</code> ahmad raza khan is this  and save  ss sss reload.
       </p>
       <a
         class="App-link"
@@ -21,7 +21,7 @@
 export default {
   data() {
     return {
-      message: "Learn me come Ahmad Raza  aur we wa rear Vue",
+      message: " hii Learn me come Ahmad Raza  aur we wa rear Vue it ci time mahn ",
     };
   },
 };

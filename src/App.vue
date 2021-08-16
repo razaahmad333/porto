@@ -21,7 +21,7 @@
 export default {
   data() {
     return {
-      message: "Learn me come Ahmad Raza  aur we wa rear Vue it ci time mahn ",
+      message: " hii Learn me come Ahmad Raza  aur we wa rear Vue it ci time mahn ",
     };
   },
 };
